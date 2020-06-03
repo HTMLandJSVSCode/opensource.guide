@@ -3,11 +3,6 @@ lang: es
 title: Recibir Pagos por Trabajos en C&oacute;digo Abierto
 description: Mant&eacute;n tu trabajo de c&oacute;digo abierto al encontrar apoyo financiero por tu tiempo o tu proyecto.
 class: getting-paid
-toc:
-  por-qu&eacute;-algunas-personas-buscan-apoyo-financiero: "¿Por qu&eacute; algunas personas buscan apoyo financiero?"
-  financiando-tu-propio-tiempo: "Financiando tu propio tiempo"
-  encontrando-financiaci&oacute;n-para-tu-proyecto: "Encontrando financiaci&oacute;n para tu proyecto"
-  creando-un-caso-de-apoyo-financiero: "Creando un caso de apoyo financiero"
 order: 7
 image: /assets/images/cards/getting-paid.png
 related:
@@ -37,7 +32,7 @@ Hay muchas razones por las cuales a una persona no le gustar&iacute;a que le pag
   <img src="https://avatars.githubusercontent.com/alloy?s=180" class="pquote-avatar" alt="avatar">
   Las donaciones financieras agregan un sentimiento de responsabilidad, para algunos. (...) Es importante para nosotros, en el mundo globalmente conectado y apresurado en el que vivimos, ser capaces de decir: "Espera, no ahora, quiero hacer algo completamente diferente".
   <p markdown="1" class="pquote-credit">
-— @alloy, ["Why We Don't Accept Donations"](http://blog.cocoapods.org/Why-we-dont-accept-donations/)
+— @alloy, ["Why We Don't Accept Donations"](https://blog.cocoapods.org/Why-we-dont-accept-donations/)
   </p>
 </aside>
 
@@ -59,7 +54,7 @@ El trabajo pagado tambi&eacute;n habilita a todo tipo de personas a aportar sign
   <img src="https://avatars.githubusercontent.com/isaacs?s=180" class="pquote-avatar" alt="avatar">
    OSS obtiene beneficios mas&iacute;vos de la industria de la tecnolog&iacute;a, que, al mismo tiempo, significa beneficios para todas las industrias. (...) Por otro lado, si las &uacute;nicas personas que pueden concentrarse en ello son aquellas con suerte y obsesionadas, entonces hay un gran potencial no explotado.
   <p markdown="1" class="pquote-credit">
-— @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.ftnd5qez0)
+— @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c)
   </p>
 </aside>
 
@@ -99,14 +94,14 @@ Si tu empresa va por esta ruta, es importante mantener clara la relaci&oacute;n 
 
 Si no pueden convencer a tu actual empleador de priorizar un trabajo de c&oacute;digo abierto, considera encontrar un nuevo empleador que motive a los empleados a contribuir. Busca empresas que hagan su dedicaci&oacute;n al c&oacute;digo abierto expl&iacute;cita. Por ejemplo:
 
-* Algunas empresas, como [Netflix](https://netflix.github.io/) o [PayPal](http://paypal.github.io/), tienen p&aacute;ginas web que resaltan su participaci&oacute;n en el c&oacute;digo abierto.
-* [Rackspace](https://www.rackspace.com/en-us) publico su [pol&iacute;ticas de contribuci&oacute;n al c&oacute;digo abierto](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/) para empleados.
+* Algunas empresas, como [Netflix](https://netflix.github.io/) o [PayPal](https://paypal.github.io/), tienen p&aacute;ginas web que resaltan su participaci&oacute;n en el c&oacute;digo abierto.
+* [Zalando](https://opensource.zalando.com) publico su [pol&iacute;ticas de contribuci&oacute;n al c&oacute;digo abierto](https://opensource.zalando.com/docs/using/contributing/) para empleados.
 
 Proyectos que se originaron en una empresa grande, como [Go](https://github.com/golang) o [React](https://github.com/facebook/react), ser&aacute;n susceptibles a contratar personas que trabajen en c&oacute;digo abierto.
 
 Finalmente, dependiendo de tus circunstancias personales, puedes probar generar dinero de forma independiente para financiar tu trabajo de c&oacute;digo abierto. Por ejemplo:
 
-* @gaearon financio su propio trabajo [Redux](https://github.com/reactjs/redux) a trav&eacute;s de [Patreon crowdfunding campaign](http://redux.js.org/)
+* @gaearon financio su propio trabajo [Redux](https://github.com/reactjs/redux) a trav&eacute;s de [Patreon crowdfunding campaign](https://redux.js.org/)
 * @andrewgodwin financi&oacute; su trabajo de migraci&oacute;n de esquemas de Django [a trav&eacute;s de una campa&ntilde;a kickstarter](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
 ## Encontrando financiaci&oacute;n para tu proyecto.
@@ -186,5 +181,3 @@ Los financiadores, sin importar si tu empleador o tu fundaci&oacute;n generadora
 ## Experimenta y no te rindas
 
 Recaudar dinero no es f&aacute;cil, ya sea un proyecto de c&oacute;digo abierto, una organizaci&oacute;n sin fines de lucro, o un emprendimiento de software, y la mayor&iacute;a de los casos requieren que seas creativo. Debes identificar c&oacute;mo quieres que te paguen, debes investigar y debes ponerte en el lugar de tu financiador, de esta manera podr&aacute;s construir un caso convicente para que te financien.
-
->
